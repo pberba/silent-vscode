@@ -1,6 +1,8 @@
 # silent-vscode
 
-Silently installing extensions on VSCodium-based IDEs such as VSCode, Cursor, and Antigravity for persistence.
+Silently installing extensions on VSCodium-based IDEs such as VSCode, Cursor, and Antigravity for persistence. 
+
+https://pberba.github.io/security/2026/10/14/silent-vscode/
 
 ## Scope and intent
 
