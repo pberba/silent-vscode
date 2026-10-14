@@ -1,0 +1,17 @@
+{
+  "name": "silent-extension",
+  "displayName": "silent-extension",
+  "description": "Sample Extension for Silent VSCode Installation",
+  "version": "0.0.1",
+  "publisher": "sample-publisher",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": ["*"],
+  "main": "./extension.js",
+  "license": "MIT"
+}
